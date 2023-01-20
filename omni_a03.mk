@@ -22,5 +22,5 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 PRODUCT_DEVICE := a03
 PRODUCT_NAME := omni_a03
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-A035F
+PRODUCT_MODEL := Galaxy A03
 PRODUCT_MANUFACTURER := samsung
